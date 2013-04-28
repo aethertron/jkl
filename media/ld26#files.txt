@@ -1,0 +1,3 @@
+C:\wamp\www\jkl\media\ld26#tiles.png
+C:\wamp\www\jkl\media\ld26.tlc
+C:\wamp\www\jkl\media\ld26#map001.map
