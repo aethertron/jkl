@@ -2,7 +2,9 @@
 lib/impact/
 lib/weltmeister/
 tools/
+tools/*
 min.html
+weltmeister.html
 
 #################
 ## Eclipse
