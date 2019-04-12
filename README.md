@@ -8,9 +8,11 @@ Ludum Dare 26 game.
 
 ---
 
+(Post from 2013-04-28)
+
 I made a maze game for Ludum Dare 26. The theme was 'minimalism'. My entry is unpolished and not impressive at all. But I'm glad it's done. First finished game in years.
 
-<img src="/ld26-screenshot.png" alt="Game screenshot">
+<img src="http://imgur.com/iLYirW0l.png" alt="Game screenshot">
 
 It was a good opportunity to introduce myself to Impact JS, a sweet HTML5/JavaScript game engine. It comes with lots of standard features, like a 2D map editor and simple physics. It handles collisions out of the box. Looks like it'll be good for rapid prototyping, when I learn the main features. Then I'll be able to make some decent complete 2D games.
 
